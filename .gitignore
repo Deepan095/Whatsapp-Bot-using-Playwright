@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Playwright Browser Files
+playwright/.cache/
+
+# Screenshots
+*.png
+*.xlsx
+
+
+# VS Code Settings
+.vscode/
+
+
